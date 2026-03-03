@@ -8,7 +8,7 @@ I'm passionate about making complex workflows feel simple — both in semiconduc
 
 **At Qualcomm**, I lead the workflow orchestration platform for the Snapdragon Oryon custom CPU team — think several hundred automated pipelines across multiple data centers, helping 1,000+ engineers design the chips that power billions of devices. What started as a need to tame semiconductor complexity turned into something I genuinely love building.
 
-**In open source**, I'm an invited [Committer](https://airflow.apache.org/docs/apache-airflow/stable/community/committers.html) and Code Owner on [Apache Airflow](https://github.com/apache/airflow), the world's most popular workflow orchestration platform (used by 77K+ organizations). I'm a Code Owner for the **Edge Executor** and **Celery Executor** — the distributed execution engines that keep Airflow humming in production environments everywhere. Real problems in the semiconductor space drive my contributions, and those contributions end up helping teams worldwide.
+**In open source**, I'm an invited [Committer](https://github.com/apache/airflow/blob/73d0ee88b50ddc9c2e1e22250a6a11083b975780/airflow-core/docs/project.rst?plain=1#L103) and Code Owner on [Apache Airflow](https://github.com/apache/airflow), the world's most popular workflow orchestration platform (used by 77K+ organizations). I'm a Code Owner for the **Edge Executor** and **Celery Executor** — the distributed execution engines that keep Airflow humming in production environments everywhere. Real problems in the semiconductor space drive my contributions, and those contributions end up helping teams worldwide.
 
 ## Open-source highlights
 
