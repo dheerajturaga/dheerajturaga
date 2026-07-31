@@ -21,6 +21,7 @@ I'm passionate about making complex workflows feel simple — both in semiconduc
 ## Talks
 
 - [**Airflow Summit 2025**](https://airflowsummit.org/sessions/2025/semiconductor-chip-design-workflow-orchestration-with-airflow/) — *Semiconductor Chip Design Workflow Orchestration with Airflow*
+- [**Airflow Summit 2026**](https://airflowsummit.org/sessions/2026/dags-move-robots-closed-loop-orchestration-for-silicon-validation-labs-with-airflow/) — *DAGs Move Robots: Closed‑Loop Orchestration for Silicon Validation Labs with Airflow*
 
 ## Let's connect
 
